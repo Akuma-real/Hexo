@@ -28,8 +28,8 @@ nav:
   menu:
     - title: 网页
       item:
-        - name: 博客
-          link: https://blog.anheyu.com/
+        - name: 首页
+          link: https://june.ink/
           icon: /img/favicon.ico
     - title: 项目
       item:
